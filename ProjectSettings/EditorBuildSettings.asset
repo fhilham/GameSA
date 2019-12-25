@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/splash.unity
+    guid: cbe875ae118f924488bda9fb00ee1671
+  - enabled: 1
+    path: Assets/loading.unity
+    guid: 0903f44cef8c6f4448604b67f78e40c1
+  - enabled: 1
+    path: Assets/main_menu.unity
+    guid: b097276cd413540408d686092092c9a4
+  - enabled: 1
+    path: Assets/ARCamera.unity
+    guid: 8c0e43b341beb2544b809ce64e07d617
+  - enabled: 1
+    path: Assets/GamePlay.unity
+    guid: 32f67385f2f91a84e823f1916cdc983d
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: f7560d826cc73c34dac7e166df727653
+  - enabled: 1
+    path: Assets/preGame.unity
+    guid: 577cd2566c8fcd147b302cd9d9d40cec
+  - enabled: 1
+    path: Assets/Info.unity
+    guid: c3b704b72e83e0d479a7f56c7d6cfd87
+  - enabled: 1
+    path: Assets/About.unity
+    guid: b92fee50e1147104eb9b46851c4e42ee
